@@ -1,8 +1,11 @@
 <div style="text-align: left;">
 
 # 心月屋 1.0
+* 这是[**xinyuewu.top**](xinyuewu.top)网站，使用Twilight模板。本站主要内容为兴趣内容分享，欢迎访问。
+* 网站主仓库并不在此。如有你感兴趣的话题可以前往issue（议题）发布议题。
+
 ![这是替代文本](/image.png "这是示例图片")
-这是[**xinyuewu.top**](xinyuewu.top)网站，使用Twilight模板。本站主要内容为兴趣内容分享，欢迎访问。
+
 
 # 致谢
 
